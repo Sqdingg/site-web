@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Lato';
     src: url('assets/Font/Lato/Lato-Black.ttf') format('truetype');
-    font-weight: 900; /* Black = très gras */
+    font-weight: 900;
     font-style: normal;
 }
 body {
