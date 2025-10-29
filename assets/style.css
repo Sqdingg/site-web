@@ -1,5 +1,10 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('assets/Font/Lato/Lato-Black.ttf') format('truetype');
+    font-weight: 900; /* Black = très gras */
+    font-style: normal;
+}
 body {
-            font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
             background: url('../assets/images/giphy2.gif') no-repeat center center fixed;
